@@ -1,0 +1,11 @@
+{
+  "name": "copyconvert",
+  "version": "1.0.0",
+  "description": "copy and convert recrusivly",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "fathergoose",
+  "license": "ISC"
+}
